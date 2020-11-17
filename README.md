@@ -2,7 +2,7 @@
 
 In this project, we will be visualizing COVID19 psychological effects.
 
-* Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days ([souce](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp))
+* Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days ([source](https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp))
 
 * Ryan Cost - ryan1.cost@gmail.com - 1210840953
 * Miguel Cuen - macuen@asu.edu - 1210806022
